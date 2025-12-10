@@ -70,9 +70,6 @@ Contributions are welcome! If you’d like to:
 
 Feel free to open an issue or a pull request. Please maintain code style and include relevant tests where applicable.
 
-## 📄 License
-
-_(Add your license here — e.g. MIT, Apache 2.0, etc.)_  
 
 ## 🙋‍ Contact
 
